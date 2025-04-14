@@ -53,10 +53,8 @@ Hi! I'm a software developer who loves turning ideas into real-world application
 
 ## 🌐 Let's Connect!
 
-- 🌍 [Your Website or Portfolio](https://yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 🌍 [Website or Portfolio](In progress)
+- 📧 Email: potter17180@gmail.com
 
 ---
 

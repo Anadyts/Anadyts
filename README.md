@@ -21,6 +21,7 @@ Hi! I'm a software developer who loves turning ideas into real-world application
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 **Frameworks & Libraries:**  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
 ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) 
@@ -60,4 +61,3 @@ Hi! I'm a software developer who loves turning ideas into real-world application
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-

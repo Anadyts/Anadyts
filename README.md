@@ -70,5 +70,3 @@ Hi! I'm a software developer who loves turning ideas into real-world application
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 ---
-
-หากคุณต้องการให้ช่วยออกแบบหรือสร้าง Portfolio Website ด้วย stack เหล่านี้ หรือแปลง README นี้เป็นรูปแบบ Markdown พร้อม preview ก็แจ้งได้เลยครับ!
